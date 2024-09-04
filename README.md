@@ -17,7 +17,7 @@ pip install pandas numpy scikit-learn pickle streamlit
 
 2.Prepare Data
 
-Ensure you have the dataset Cardetails.csv containing car details.
+Ensure you have the dataset diabetes-diabetes.csv containing people having diabetes details.
 
 3.Run the Application
 
